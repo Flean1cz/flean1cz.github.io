@@ -1,1 +1,13 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.flean1cz.strazcepokladu",
+      "sha256_cert_fingerprints": [
+        "DOPLN_SHA256_UPLOAD_KLICE_Z_PWABUILDERU",
+        "DOPLN_SHA256_PLAY_APP_SIGNING_KLICE_Z_PLAY_CONSOLE"
+      ]
+    }
+  }
+]
